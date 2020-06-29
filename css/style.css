@@ -383,6 +383,7 @@ div#menu3 {
     body {
         background-color: #3081ed;
     }
+   
  
     
   }
@@ -400,6 +401,9 @@ div#menu3 {
     body {
         background-color: #3081ed;
     }
+    a.nav-link {
+        font-size: 17px;
+   }
   }
   
   /* 
@@ -419,5 +423,10 @@ div#menu3 {
         width: 100%;
         float: none;
     }
+    a.nav-link {
+        font-size: 16px;
+        padding:5px;
+        margin-left:2px;
+   }
     
   }
