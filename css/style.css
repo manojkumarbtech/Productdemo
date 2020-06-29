@@ -285,6 +285,70 @@ ul.nav.nav-tabs li a {
 button.btn.draw.pull-right.btn-white {
     margin: 0;
 }
+
+
+.row-1-logo img {
+    padding-right: 25px;
+    padding-top: 25px;
+}
+
+
+.row-1-logo {
+    margin-bottom: 15px;
+}
+.bnimag{
+    width:100%;
+}
+div#menu2 {
+    padding-top: 25px;
+}
+
+
+.bg-white.templ .tooltip-notification-channels {
+    vertical-align: middle;
+    display:inline-block;
+    width: 16%;
+}
+
+
+.bg-white.templ {
+    height: 147px;
+    padding: 38px;
+    border-radius: 10px;
+}
+
+.bg-white.col-md-5.templ {
+    color: #000;
+    font-size: 22px;
+}
+
+span.tooltiptext {
+    display: none;
+}
+
+div#menu3 {
+    padding-top: 25px;
+}
+
+.private-hosting:hover {
+    box-shadow: 0 10px 50px -5px rgba(51, 71, 91, 0.12);
+    -webkit-transform: scale(1.014);
+    transform: scale(1.014);
+}
+
+.private-hosting a {
+    text-decoration: none;
+}
+
+.private-hosting .col-md-4 {
+    padding-left: 10%;
+    display: inline-flex;
+}
+.built-in-integrations.row {margin-bottom: 12px;}
+
+.private-hosting {
+    padding: 10px;
+}
    @media (min-width: 1281px) {
   
     
